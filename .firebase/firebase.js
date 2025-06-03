@@ -7,7 +7,7 @@ const firebaseConfig = {
   projectId: "discord-clone-74e94",
   storageBucket: "discord-clone-74e94.firebasestorage.app",
   messagingSenderId: "997593465379",
-  appId: "1:997593465379:web:8113483a677fd548df2796"
+  appId: "1:997593465379:web:b70b5568f69c8765df2796"
 };
 
 
